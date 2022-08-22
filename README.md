@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Timur
-- I’m interested in programming
-- I’m currently learning C++, Python and HTML
-- Now I'am studying in BMSTU
+
